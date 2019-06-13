@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVVMDemoApp</string>
+    <string name="title_activity_coupons">CouponsActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
